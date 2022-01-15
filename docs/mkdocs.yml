@@ -1,0 +1,11 @@
+# Project information
+site_name: CAP
+site_description: 'A docs test'
+docs_dir: content
+repo_name: 'taidevops/cap'
+repo_url: 'https://github.com/taidevops/cap'
+nav:
+  - Home: index.md
+#theme: material
+theme:
+  name: "material"
